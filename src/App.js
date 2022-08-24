@@ -10,8 +10,6 @@ export default function App() {
     <div className="App">
       <Navbar />
       <FeaturedSection />
-      {/* <ShortStories /> */}
-      {/* <WhatIsMore /> */}
       <AboutAuthor />
       <MoreBooks />
       <Footer />
